@@ -20,14 +20,10 @@ public class V6MobileBankApiTest {
 
     @Test
     void shouldReturnDemoAccounts() {
-        // Given - When - Then
-        // Предусловия
         given()
-                .spec(requestSpec) // со спецификацией проще (особенно когда много тестов)
-                // Выполняемые действия
+                .spec(requestSpec)
                 .when()
                 .get("/demo/accounts")
-                // Проверки
                 .then()
                 .statusCode(200);
     }
