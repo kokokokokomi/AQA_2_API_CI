@@ -13,7 +13,7 @@
     "additionalProperties": false,
     "properties": {
       "id": {
-        "type": "integer"
+        "type": "double"
       },
       "name": {
         "type": "string",
