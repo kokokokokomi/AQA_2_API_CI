@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/5lofpperhgsk56rd?svg=true)](https://ci.appveyor.com/project/komisuomi/aqa-2-api-ci)
+**MobileBankAPI** [![Build status](https://ci.appveyor.com/api/projects/status/5lofpperhgsk56rd?svg=true)](https://ci.appveyor.com/project/komisuomi/aqa-2-api-ci)
